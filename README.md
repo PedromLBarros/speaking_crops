@@ -1,4 +1,5 @@
-# Speaking Crops ###### ***The plants that speak***
+# Speaking Crops 
+***The plants that speak***
 
 ## Project Description
 **Speaking Crops** is an **autonomous remote** irrigation and water distribution system, capable of detecting leaks and collecting rainwater.
