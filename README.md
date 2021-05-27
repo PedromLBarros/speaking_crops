@@ -8,4 +8,4 @@
   - **Water collection:** the ability to collect rainwater so that it can be used later.
 Speaking Crops is the technological solution that allows farmers to "hear" the needs of their crops in real time, and thus find the best strategy to reduce and optimize water consumption.
 
-Made by: Armando Rodrigues, Cláudia Ribeiro & Pedro Barros
+***Made by:*** Armando Rodrigues, Cláudia Ribeiro & Pedro Barros
